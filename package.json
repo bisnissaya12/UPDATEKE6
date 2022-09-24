@@ -1,7 +1,7 @@
 {
-    "name": "wh-mods-dev",
+    "name": "TheBotz-Official",
     "version": "3.0.0",
-    "description": "WhatsApp BOT By wahid",
+    "description": "WhatsApp BOT By Mimim",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -44,16 +44,16 @@
         "google-it",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Wahidhidayatulla/fix-bot-v1",
+    "homepage": "https://github.com/sampun-penak/new-bot2",
     "author": {
-        "name": "Wahidhidayatulla"
+        "name": "Mimim-Official"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Wahidhidayatulla/fix-bot-v1"
+        "url": "git+https://github.com/sampun-penak/new-bot2"
     },
     "bugs": {
-        "url": "https://github.com/Wahidhidayatulla/fix-bot-v1/"
+        "url": "https://github.com/sampun-penak/new-bot2/"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {

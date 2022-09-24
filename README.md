@@ -3,39 +3,39 @@
 Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu kakak !
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <img src="https://i.ibb.co/XZrK6yQ/transformers.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/74d983dd46e8bac065b48.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">WH MODS BOT - MD</h1>
+<h1 align="center">TheBotz-Official - MD</h1>
 <p align="center">
-  <a href="https://github.com/WH-MODS-BOT"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=WH+MODS+BOT+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+WH+MODS+DEV;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/sampun-penak"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Mimim+Official+BOT+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+Mimim+Official+Bot;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="WH-MODS-BOT" src="https://img.shields.io/badge/-WH--MODS--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Mimim-Official" src="https://img.shields.io/badge/-Mimim--Official--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/WH-MODS-BOT"><img title="Author" src="https://img.shields.io/badge/AUTHOR-WH--MODS--BOT-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/sampun-penak"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Mimim--Official--BOT-green?style=for-the-badge&logo=github"></a>
     
 # Ambil Session Disini
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit) 
-> Dan Subscribe [ Here ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
+> Dan Follow [ Here ](https://instagram.com/sampun_penak) 
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285736178354">
+  <a href="https://wa.me/6283816446896">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_ctzhid_">
+  <a href="https://www.instagram.com/sampun_penak">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow">
-    <img align="left" alt="SIEGRIN | YouTube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg" />
+  <a href="https://t.me/sampun_penak">
+    <img align="left" alt="SIEGRIN | Telegram" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Telegram.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6282127487538"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/Group%20All%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HQMa4AGBFKRBi4z4R0MnH4) 
+## ```Whatsapp``` <a href="https://wa.me/6283816446896"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/Group%20All%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EJik1WvMpxeCoCEGAFRqiV) 
 ---------
 
 #### a little about this bot
@@ -63,9 +63,9 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/WH-MODS-BOT/fix-bot-v2/blob/master/config.js#L1)
-- Owner Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v2/blob/master/config.js#L1)
-- Bot Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v2/blob/master/config.js#L1)
+- Owner Number [Here](https://github.com/sampun-penak/new-bot2/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/sampun-penak/new-bot2/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/sampun-penak/new-bot2/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
@@ -83,7 +83,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/WH-MODS-BOT/fix-bot-v2
+$ git clone https://github.com/sampun-penak/new-bot2
 $ cd fix-bot-v2
 $ npm i 
 ```
@@ -126,8 +126,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/WH-MODS-BOT/fix-bot-v2
-cd fix-bot-v2
+git clone https://github.com/sampun-penak/new-bot2
+cd new-bot2
 npm install
 npm update
 ```
@@ -142,8 +142,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/WH-MODS-BOT/fix-bot-v2
-cd fix-bot-v2
+git clone https://github.com/sampun-penak/new-bot2
+cd new-bot2
 npm install
 npm update
 ```
@@ -236,11 +236,11 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/WH-MODS-BOT)
-* [`My parents`](https://github.com/WH-MODS-BOT)
-* [`All Friends`](https://github.com/WH-MODS-BOT)
-* [`All Contributors`](https://github.com/WH-MODS-BOT)
-* [`All Creator Bot`](https://github.com/WH-MODS-BOT)
+* [`Allah SWT`](https://github.com/sampun-penak)
+* [`My parents`](https://github.com/sampun-penak)
+* [`All Friends`](https://github.com/sampun-penak)
+* [`All Contributors`](https://github.com/sampun-penak)
+* [`All Creator Bot`](https://github.com/sampun-penak)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
@@ -250,4 +250,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
 ## ```Recode By ✏️```
-[![WH-MODS-BOT](https://github.com/WH-MODS-BOT.png?size=70)](https://github.com/WH-MODS-BOT)
+[![Mimim-Official](https://github.com/sampun-penak.png?size=70)](https://github.com/sampun-penak)
