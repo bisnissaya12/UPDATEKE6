@@ -108,7 +108,7 @@ let loveyou = lovou[Math.floor(Math.random() * lovou.length)]
     let assal = [
 '🥰',
 '😇',
-'😅'
+'😍'
 ]
 let assl = assal[Math.floor(Math.random() * assal.length)]
     if (isAss && !m.fromMe) {

@@ -272,7 +272,7 @@ let tek = `*${ucapan()} ${conn.getName(m.sender)}*
 ┌–––––––––––––––––✥
 │「 Hai Kak👋 」
 └┬❖ 「 ${conn.getName(m.sender)} 」
-┌┤❀  Bagaimana Harimu? 😄
+┌┤❀  Bagaimana Harimu?
 ┊│❀  Terima Kasih Telah Menggunakan Bot Kami
 │└────────────┈ ⳹
 ┊   「 *U s e r  I n f o 克* 」
@@ -503,12 +503,12 @@ const listMessage = {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n By Wh-Mods-Dev',
+            footer: titlebot + '\n By Mimim-Botz',
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: `SUBSCRIBE`,
-                        url: 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow'
+                        displayText: `FOLLOW`,
+                        url: 'https://instagram.com/sampun_penak'
                     }
                 },
                 {

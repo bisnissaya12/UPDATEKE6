@@ -1,17 +1,17 @@
 let handler = async (m, { conn }) => {
 	//-----PRICE
 //sewa
-let sh = '5'
-let sn = '15'
-let ss = '30'
-let sp = '35'
-let sv = '65'
+let sh = '10'
+let sn = '30'
+let ss = '50'
+let sp = '75'
+let sv = '100'
 //premium
 let ph = '5'
 let pn = '20'
-let pp = '40'
-let pv = '50'
-let ppm = '70'
+let ps = '40'
+let pp = '60'
+let pv = '90'
 let info = `
 ╭━━━━「 *SEWA* 」
 ┊⫹⫺ *Hemat:* _${sh}k/grup (1 minggu)_
@@ -24,17 +24,17 @@ let info = `
 ╭━━━━「 *PREMIUM* 」
 ┊⫹⫺ *Hemat:* _${ph}k (1 minggu)_
 ┊⫹⫺ *Normal:* _${pn}k (1 bulan)_
-┊⫹⫺ *Pro:* _${pp}k (4 bulan)_
-┊⫹⫺ *Vip:* _${pv}k (8 bulan)_                                               
-┊⫹⫺ *Permanent:* = _${ppm}k (Unlimited)_
+┊⫹⫺ *Standar:* _${ps}k (4 bulan)_
+┊⫹⫺ *Pro:* _${pp}k (8 bulan)_                                               
+┊⫹⫺ *Vip:* = _${pv}k (10 Bulan)_
 ╰═┅═━––––––๑
 
 *⫹⫺ PAYMENT:*
-• *Pulsa Telkomsel:* [${ppulsa}]
+• *Pulsa XL AXIATA:* [${ppulsa}]
 • *Dana:* [${pdana}]
 • *Gopay:* [${pgopay}]
 • *Ovo:* [${povo}]
-• *Link Aja:* [${plinkaja}]
+• *MotionPay:* [${plinkaja}]
 
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
@@ -60,9 +60,9 @@ const sections = [
 	rows: [
 	    {title: "🌟 HEMAT", rowId: '.order *Paket:* HEMAT • Premium', description: 'PRICE: ' + ph + 'k (1 minggu)' },
 	    {title: "🌟 NORMAL", rowId: '.order *Paket:* NORMAL • Premium', description: 'PRICE: ' + pn + 'k (1 bulan)' },
-	{title: "🌟 PRO", rowId: '.order *Paket:* PRO • Premium', description: 'PRICE: ' + pp + 'k (4 bulan)' },
-	{title: "🌟 VIP", rowId: '.order *Paket:* VIP • Premium', description: 'PRICE: ' + pv + 'k (8 bulan)' },
-	{title: "🌟 PERMANENT", rowId: '.order *Paket:* PERMANENT • Premium', description: 'PRICE: ' + ppm + 'k (UNLIMITED)' },
+	{title: "🌟 STANDAR", rowId: '.order *Paket:* Standar • Premium', description: 'PRICE: ' + ps + 'k (4 bulan)' },
+	{title: "🌟 PRO", rowId: '.order *Paket:* PRO • Premium', description: 'PRICE: ' + pp + 'k (8 bulan)' },
+	{title: "🌟 VIP", rowId: '.order *Paket:* VIP • Premium', description: 'PRICE: ' + pv + 'k (10 Bulan)' },
 	]
     },
 ]
