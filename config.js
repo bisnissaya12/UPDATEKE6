@@ -114,7 +114,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ IBNU OFFICIAL 🅥⁩  ˘ฅ ꒱
 global.wm3 = '⫹⫺ IBNU OFFICIAL 🅥⁩  '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By TheBotz-Official`
+global.titlebot = `⫹⫺ WhatsApp Bot | By IBNU OFFICIAL 🅥⁩`
 global.author = '   「 IBNU OFFICIAL 🅥⁩  あ」'
 
 
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'TheBotz-Official'
-global.stickauth = `By ©Mimim-Official`
+global.stickpack = 'IBNU OFFICIAL 🅥⁩'
+global.stickauth = `IBNU OFFICIAL 🅥⁩ `
 
 global.multiplier = 38 // The higher, The harder levelup
 
