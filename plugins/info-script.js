@@ -6,19 +6,17 @@ let str = `*https://instagram.com/sampun_penak*
 
 Pengen mentahan nya ?
 Nih ada santai bro....
-https://github.com/ImYanXiao/Elaina-MultiDevice
+https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn
 
-Mau Yang No Error Script Bot nya, Gas Cek Video YT :
-https://youtube.com
-
-wa.me/6282127487538`
+https://github.com/bisnissaya12
+wa.me/6281807254833`
 let wibu = `https://api-reysekha.herokuapp.com/api/random/cosplay?apikey=apirey` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Thankyou','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "https://Instagram.com/sampun_penak",
     mediaType: "VIDEO",
-    description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
-    title: 'Mimim-Official MultiDevice',
+    description: "https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn", 
+    title: 'IBNU OFFICIAL 🅥⁩ MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
