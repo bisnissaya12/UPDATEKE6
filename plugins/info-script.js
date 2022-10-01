@@ -15,7 +15,7 @@ let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Thankyou','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "https://instagram.com/ibnu_ramadhani.1",
     mediaType: "VIDEO",
-    description: "https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn", 
+    description: "https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG", 
     title: 'IBNU OFFICIAL 🅥⁩ MultiDevice',
     body: wm,
     thumbnail: thumb,
