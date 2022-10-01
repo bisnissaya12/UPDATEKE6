@@ -32,9 +32,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/ibnu_ramadhani.1'
 global.sgh = 'https://github.com/bisnissaya12' //github
-global.sgc = 'https://chat.whatsapp.com/EJik1WvMpxeCoCEGAFRqiV' //group whatsapp
-global.sdc = 'https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn' //discord
-global.snh = 'https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn' // my youtube channel
+global.sgc = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' //group whatsapp
+global.sdc = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' //discord
+global.snh = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '081807254833' //dana
