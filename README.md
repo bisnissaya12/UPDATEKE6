@@ -58,7 +58,7 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 - [x] Premium 
 - [x] Tools 
 - [x] Exec 
-- [x] React 
+- [x] React DLL
 ---------
 
 ## `SETTING`
