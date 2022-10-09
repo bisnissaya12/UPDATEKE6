@@ -46,10 +46,10 @@ global.ppulsa2 = '081807254833' // kalau ada kartu lain isi aja
 global.psaweria = '081807254833'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62818072548331'
-global.nomorown = '6281807254833'
-global.namebot = 'IBNU-MD'
-global.nameown = 'IBNU OFFICIAL 🅥⁩ '
+global.nomorbot = '6287784997743'
+global.nomorown = '6289531931590'
+global.namebot = 'TAPU-MD'
+global.nameown = 'TATA OFFICIAL 🅥⁩ '
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
